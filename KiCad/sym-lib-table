@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Gameboy_Micro_Schematic-rescue)(type Legacy)(uri ${KIPRJMOD}/Gameboy_Micro_Schematic-rescue.lib)(options "")(descr ""))
+)
